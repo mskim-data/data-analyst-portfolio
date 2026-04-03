@@ -54,7 +54,7 @@
 
 ### 주요 시각화
 #### Conversion Rate
-![Conversion Rate](images/Project1/conversion-Rate.png)
+![Conversion Rate](images/Project1/conversion-rate.png)
 
 #### Segment Analyze
 ![Segment Analyze](images/Project1/segment-analyze.png)
