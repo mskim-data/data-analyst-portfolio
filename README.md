@@ -54,13 +54,13 @@
 
 ### 주요 시각화
 #### Conversion Rate
-![Conversion Rate](images/Project1/Conversion-Rate.png)
+![Conversion Rate](images/Project1/conversion-Rate.png)
 
 #### Segment Analyze
-![Segment Analyze](images/Project1/Segment-Analyze.png)
+![Segment Analyze](images/Project1/segment-analyze.png)
 
 #### Behavioral Mediating Indicator
-![Behavioral Mediating Indicator](images/Project1/Behavioral-Mediating-Indicator.png)
+![Behavioral Mediating Indicator](images/Project1/behavioral-mediating-indicator.png)
 
 ### 관련 파일
 - [Project1 PDF](docs/Project1_UI%20개편%20AB%20테스트%20분석.pdf)
@@ -99,16 +99,16 @@
 
 ### 주요 시각화
 #### Cohort Analyze
-![Cohort Analyze](images/Project2/Cohort-Analyze.png)
+![Cohort Analyze](images/Project2/cohort-analyze.png)
 
 #### Growth Analyze
-![Growth Analyze](images/Project2/Growth-Analyze.png)
+![Growth Analyze](images/Project2/growth-analyze.png)
 
 #### Growth Efficiency
-![Growth Efficiency](images/Project2/Growth-Efficiency.png)
+![Growth Efficiency](images/Project2/growth-efficiency.png)
 
 #### Level Analyze
-![Level Analyze](images/Project2/Level-Analyze.png)
+![Level Analyze](images/Project2/level-analyze.png)
 
 #### Location Churn
 ![location churn](images/Project2/location-churn.png)
